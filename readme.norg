@@ -1,0 +1,19 @@
+* Mithrandir
+
+  > Named after Gandalf the grey, or the grey pilgrim.
+
+  Well this is a custom discord bot that im developing for a certain group; Although 
+  you are free to use this for your self. Just change the api keys and other details to ensure everything plays out well. 
+
+* Features
+  - ( ) Open Ai to allow convos with Gandalf, and other core lotr characters  Would be pretty epic
+  - ( ) AI discussions page, This will fetch the latest news from Alpha Signal,
+    I might Make it so it fetches more info from other sites, Really depends. 
+  - ( ) A fully customisable reddit fetcher; Some subreddits id like to only get
+    the top posts, and some ones i want all of them, this bot should be able to do so and then pick the channel in where it needs to go 
+  - ( ) Reminders and some other slice of life stuff that would be nice to have.
+
+
+
+
+
